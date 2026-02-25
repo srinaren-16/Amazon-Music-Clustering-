@@ -163,4 +163,16 @@ amazon_music_final_clusters.csv
 
 Make a Streamlit dashboard to visualize the best model.
 
+---
+##  Project Structure
+
+```text
+Amazon-Music-Clustering/
+│
+├── Amazon_music_clustering.ipynb
+├── Single Genre Artists.csv
+├── amazon_music_final_clusters.csv
+├── app.py
+├── requirements.txt
+├── README.md
 
